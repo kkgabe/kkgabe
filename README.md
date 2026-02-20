@@ -1,23 +1,31 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25da52&height=120&section=header"/> <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25DA52&center=true&vCenter=true&random=false&width=1000&lines=Hello+my+name+is+Fernando;I+have+20+years;I+study+Systems+for+internet" alt="Typing SVG" /></a> <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkgabe&bg_color=d2f2ca&color=000000&line=2cec13&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) <br>
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kkgabe&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=D2F2CA&bg_color=0d1117" alt="kkgabe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkgabe&layout=compact&hide_border=true&title_color=D2F2CA&text_color=D2F2CA&bg_color=0d1117" />
-</div> <br>
-<div align="center"> 
- <h3>Studing in this moment:</h3>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div> <br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kkgabe&style=for-the-badge&color=1D913D" /></p> 
-<br>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <!-- Hello Fernando typing -->
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=320&height=40&lines=Hello!+I'm+Fernando" 
+        alt="Typing SVG" 
+      />
+      <br/><br/>
+  </tr>
+</table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25da52&height=120&section=footer"/>
+# 💫 About Me:
+ Hi! 👋 My name is Fernando, and I’m an Systems for Internet student at IFES, expected to graduate in 2026. I’m passionate about Full Stack development, with a focus on back-end, data, and AI, as well as web technologies and minimalist design.<br><br>💻 Technical Skills:<br><br>Frontend: HTML, CSS, JavaScript<br><br>Backend & AI: APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling<br><br>Cloud & Tools: Git, VS Code, GitHub<br><br>🚀 Projects & Experience:<br><br>Academic and personal projects involving full-stack development, databases, and AI<br><br>🌱 Currently:<br><br>Enhancing my full-stack and AI skills<br><br>Creating projects that combine good functionality, intelligence, and user experience.<br><br>📫 Connect with me:<br>GitHub: kkgabe | Linkedin:fernando-gabeira
 
-<!-- D2F2CA , 0d1117 , 29EC10 , 1D913D-->
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+![METAGROSS GIF]([https://media.tenor.com/PO8RHMM6B5kAAAAj/garchomp-pok%C3%A9mon-pok%C3%A9mon.gif](https://media.tenor.com/M3Sw1Xs2rUwAAAAi/metagross-shiny.gif)) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Evelins1lva&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Evelins1lva&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evelins1lva&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Evelins1lva&icon=2&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
