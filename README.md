@@ -12,7 +12,7 @@
 </table>
 
 # 💫 About Me:
- Hi! 👋 My name is Fernando, and I’m an Systems for Internet student at IFES, expected to graduate in 2026. I’m passionate about Full Stack development, with a focus on back-end, data, and AI, as well as web technologies and minimalist design.<br><br>💻 Technical Skills:<br><br>Frontend: HTML, CSS, JavaScript<br><br>Backend & AI: APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling<br><br>Cloud & Tools: Git, VS Code, GitHub<br><br>🚀 Projects & Experience:<br><br>Academic and personal projects involving full-stack development, databases, and AI<br><br>🌱 Currently:<br><br>Enhancing my full-stack and AI skills<br><br>Creating projects that combine good functionality, intelligence, and user experience.<br><br>📫 Connect with me:<br>GitHub: kkgabe | Linkedin:fernando-gabeira
+ Hi! 👋 My name is Fernando, and I’m an Systems for Internet student at IFES, expected to graduate in 2026. I’m passionate about Full Stack development, with a focus on back-end, data, and AI, as well as web technologies and minimalist design.<br><br>💻 Technical Skills:<br><br>Frontend: HTML, CSS, JavaScript<br><br>Backend & AI: APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling<br><br>Cloud & Tools: Git, VS Code, GitHub<br><br>🚀 Projects & Experience:<br><br>Academic and personal projects involving full-stack development, databases, and AI<br><br>🌱 Currently:<br><br>Enhancing my full-stack and AI skills<br><br>Creating projects that combine good functionality, intelligence, and user experience.<br><br>📫 Connect with me:<br>GitHub: kkfern | Linkedin: fernando-leao0
 
 
 # 💻 Tech Stack:
